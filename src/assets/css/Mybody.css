@@ -1,0 +1,26 @@
+*,html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: yekan;
+}
+@font-face {
+    font-family: yekan;
+    src: url(../font/Yekan\ Bakh\ Regular.ttf);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style-type: none;
+}
+input{
+    outline: none;
+}
+.d-f{
+    display: flex;
+}
+body{
+    background-color: #f4f4f4;
+}
